@@ -1,0 +1,21 @@
+{
+  "name": "adventjs",
+  "version": "1.0.0",
+  "main": "dia01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "01": "nodemon dia01.js",
+    "02": "nodemon dia02.js",
+    "03": "nodemon dia03.js",
+    "04": "nodemon dia04.js",
+    "05": "nodemon dia05.js",
+    "06": "nodemon dia06.js",
+    "07": "nodemon dia07.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
